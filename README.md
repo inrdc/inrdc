@@ -1,13 +1,13 @@
 # inrdc
-#INRDC| INDIAN RUPEE DECENTRALIZED CURRENCY | Waves Blockchain | For Indian Citizens & NRI's
+<b>INRDC| INDIAN RUPEE DECENTRALIZED CURRENCY | Waves Blockchain | For Indian Citizens & NRI's</b>
 
 It's trend to turn your national economy into cashless. INRDC for Indian citizens, INRDC can send, receive, trade, exchange and shop. INRDC is exchangeable with Bitcoin/Waves.
 
-#ABOUT DECENTRALIZED CURRENCY TOKEN
+<b>ABOUT DECENTRALIZED CURRENCY TOKEN</b>
 
 The decentralized control of each cryptocurrency works through distributed ledger technology, typically a blockchain, that serves as a public financial transaction database. Bitcoin, first released as open-source software in 2009, is generally considered the first decentralized cryptocurrency.
 
-#PEER-T0-PEER TRANSACTIONS
+<b>PEER-T0-PEER TRANSACTIONS</b>
 
 Peer-to-peer transactions (also referred to as person-to-person transactions, P2P transactions, or P2P payments) are electronic money transfers made from one person to another through an intermediary, typically referred to as a P2P payment application.
 
