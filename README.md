@@ -41,15 +41,15 @@ Premine         : 100%<br>
 
 Asset ID            : 9L3E6fELS4ZYih5St4hwmyvJYTLRzXGK5ei8eFJCcnFg<br>
 Contract ID         : 3PAZTLWW9nTxKwSGLF5KajnL8PSxeiNpW4C<br>
-Source Code         : https://github.com/amexwave/INRDC<br>
-Waves Official      :  https://www.wavesplatform.com<br>
+Source Code         : https://github.com/inrdc/inrdc/<br>
+Waves Official      : https://www.wavesplatform.com<br>
 Asset Confirmation  : http://dev.pywaves.org/assets/9L3E6fELS4ZYih5St4hwmyvJYTLRzXGK5ei8eFJCcnFg<br>
 Waves Explorer      : http://wavesexplorer.com/address/3PAZTLWW9nTxKwSGLF5KajnL8PSxeiNpW4C<br>
 
 
 # Wallets
 
-Web Wallet           : <br>
+Web Wallet           : https://inrdc.github.io/inrdc/<br>
 MobileApp ( Anroid ) : <br>
 
 <br>
