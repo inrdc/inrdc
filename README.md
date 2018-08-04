@@ -11,20 +11,20 @@ The decentralized control of each cryptocurrency works through distributed ledge
 
 Peer-to-peer transactions (also referred to as person-to-person transactions, P2P transactions, or P2P payments) are electronic money transfers made from one person to another through an intermediary, typically referred to as a P2P payment application.
 
-WAVES CRYPTOCURRENCY
+<b>WAVES CRYPTOCURRENCY</b>
 
 Waves is an open-source blockchain platform, developed, marketed, and operated by Waves Platform AG, that allows users to launch their own custom cryptocurrency tokens. ... Waves uses trusted gateways to issue blockchain tokens backed by fiat money and digital currencies for use on its own platform.
 
-WAVES DECENTRALIZED EXCHANGE
+<b>WAVES DECENTRALIZED EXCHANGE</b>
 
 WavesDex is a decentralized traded based on the Waves blockchain. It enables clients to exchange their BTC/ETH/and so on in return for Waves (or some other resource token issued on the Waves stage)
 
-ABOUT INRDC
+<b>ABOUT INRDC</b>
 
 INRDC is decentralized currency token based on waves blockchain.INRDC can send, receive, trade, shop with peer to peer transactions.Its open source and secure payment system
 
 
-SPECIFICATIONS 
+<b>SPECIFICATIONS</b> 
 
 Token name      : INRDC<br>
 Token Ticker    : INRDC<br>
@@ -34,7 +34,7 @@ Algorithm       : PoS<br>
 Platform        : Waves Platform<br>
 Premine         : 100%<br>
 
-ASSET INFO
+<b>ASSET INFO</b>
 
 Asset ID            : 9L3E6fELS4ZYih5St4hwmyvJYTLRzXGK5ei8eFJCcnFg<br>
 Contract ID         : 3PAZTLWW9nTxKwSGLF5KajnL8PSxeiNpW4C<br>
@@ -44,17 +44,17 @@ Asset Confirmation  : http://dev.pywaves.org/assets/9L3E6fELS4ZYih5St4hwmyvJYTLR
 Waves Explorer      : http://wavesexplorer.com/address/3PAZTLWW9nTxKwSGLF5KajnL8PSxeiNpW4C<br>
 
 
-Wallets :
+<b>Wallets</b>
 
 Web Wallet           : <br>
 MobileApp ( Anroid ) : <br>
 
-FEES
+<b>FEES</b>
 
 Transaction FEE     : 0.001 Waves<br>
 Trading FEES @ DEX  : 0.003 Waves<br>
 
-DECENTRALIZED EXCHANGE
+<b>DECENTRALIZED EXCHANGE</b>
 
 Trade And Exchange Pairs<br>
 INRDC/BTC<br>
@@ -64,7 +64,7 @@ INRDC/WAVES<br>
 2.   Crypto Exchange : https://www.cryptohub.online ( coming soon )<br>
 
 
-FEATURES
+<b>FEATURES</b>
 
 •   It’s open source and secure payment system<br>
 •   Proof of Stakes based on Waves blockchain<br>
