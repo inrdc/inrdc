@@ -56,6 +56,7 @@ MobileApp ( Anroid ) : <br>
 <img src="https://1.bp.blogspot.com/-7vj4Oxwi-RQ/W2SVcYkuLNI/AAAAAAAAACI/edJKYSl08qYnY7PNSkg8HYGVZmIWF9P2QCLcBGAs/s1600/inrdc%2Bmobile.png" alt="INRDC">
 
 <br>
+
 # FEES
 
 Transaction FEE     : 0.001 Waves<br>
@@ -63,7 +64,7 @@ Trading FEES @ DEX  : 0.003 Waves<br>
 
 # DECENTRALIZED EXCHANGE
 
-Trade And Exchange Pairs<br>
+# Trade And Exchange Pairs
 INRDC/BTC<br>
 INRDC/WAVES<br>
 
