@@ -1,6 +1,6 @@
 # INRDC
 
-# INRDC| INDIAN RUPEE DECENTRALIZED CURRENCY | Waves Blockchain | For Indian Citizens & NRI's
+# INRDC | INDIAN RUPEE DECENTRALIZED CURRENCY | Waves Blockchain | For Indian Citizens & NRI's
 
 <center><img src="https://1.bp.blogspot.com/-49utdJa0SNo/W12NeWpXwdI/AAAAAAAAABA/WnQUYeooa-sZSerqhp1uNk5odaGLpxMTACLcBGAs/s200/rdc%2Blogo%2B512.png" alt="INRDC"></center>
 
