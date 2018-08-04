@@ -1,7 +1,7 @@
 # inrdc
 INRDC| INDIAN RUPEE DECENTRALIZED CURRENCY | Waves Blockchain | For Indian Citizens & NRI's
 
-It's trend to turn your national economy into cashless. INRDC for Indian citizens, INRDC can send, receive, trade, exchange and shop. INRDC is exchangeable with Bitcoin/Waves.
+It's trend to turn your national economy into cashless. INRDC for <br> Indian citizens, INRDC can send, receive, trade, exchange and shop. INRDC is exchangeable with Bitcoin/Waves.
 
 ABOUT DECENTRALIZED CURRENCY TOKEN
 
