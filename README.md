@@ -1,7 +1,7 @@
 # inrdc
 <b>INRDC| INDIAN RUPEE DECENTRALIZED CURRENCY | Waves Blockchain | For Indian Citizens & NRI's</b>
 
-<center><img src="https://1.bp.blogspot.com/-49utdJa0SNo/W12NeWpXwdI/AAAAAAAAABA/WnQUYeooa-sZSerqhp1uNk5odaGLpxMTACLcBGAs/s200/rdc%2Blogo%2B512.png" alt="" class="bbc_img"></center>
+<center><img src="https://1.bp.blogspot.com/-49utdJa0SNo/W12NeWpXwdI/AAAAAAAAABA/WnQUYeooa-sZSerqhp1uNk5odaGLpxMTACLcBGAs/s200/rdc%2Blogo%2B512.png" alt="INRDC"></center>
 
 It's trend to turn your national economy into cashless. INRDC for Indian citizens, INRDC can send, receive, trade, exchange and shop. INRDC is exchangeable with Bitcoin/Waves.
 
@@ -51,6 +51,10 @@ Waves Explorer      : http://wavesexplorer.com/address/3PAZTLWW9nTxKwSGLF5KajnL8
 Web Wallet           : <br>
 MobileApp ( Anroid ) : <br>
 
+<br>
+<img src="https://1.bp.blogspot.com/-7vj4Oxwi-RQ/W2SVcYkuLNI/AAAAAAAAACI/edJKYSl08qYnY7PNSkg8HYGVZmIWF9P2QCLcBGAs/s1600/inrdc%2Bmobile.png" alt="INRDC">
+
+<br>
 <b>FEES</b>
 
 Transaction FEE     : 0.001 Waves<br>
