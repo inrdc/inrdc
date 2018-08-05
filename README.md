@@ -51,6 +51,9 @@ Waves Explorer      : http://wavesexplorer.com/address/3PAZTLWW9nTxKwSGLF5KajnL8
 <b>Official Announcemnet</b><br>       
                     : https://bitcointalk.org/index.php?topic=4776525 <br>
                     : https://bitcoingarden.org/forum/index.php?topic=42846 <br>
+                    
+<b>Twitter</b>      : <b>https://twitter.com/INRDC2</b><br>
+
 
 
 # Wallets
