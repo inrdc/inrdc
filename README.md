@@ -90,8 +90,3 @@ INRDC/WAVES<br>
 •   Simple way trading opportunity at Only DEX platform<br>
 •   Shop, Trade, Exchange easily.<br>
 
-
-
-<a href="https://smallseotools.com/visitor-hit-counter/" target="_blank" title="Web Counter">
-<img src="https://smallseotools.com/counterDisplay?code=99cd2175108d157588c04758296d1cfc&style=0006&pad=5&type=page&initCount="  title="Web Counter" Alt="Web Counter" border="0">
-</a>
