@@ -39,7 +39,7 @@ Premine         : 100%<br>
 
 # ASSET INFO
 
-Asset ID             &nbsp;: 9L3E6fELS4ZYih5St4hwmyvJYTLRzXGK5ei8eFJCcnFg<br>
+Asset ID            : 9L3E6fELS4ZYih5St4hwmyvJYTLRzXGK5ei8eFJCcnFg<br>
 Contract ID         : 3PAZTLWW9nTxKwSGLF5KajnL8PSxeiNpW4C<br>
 Web Wallet Source    : https://github.com/inrdc/inrdc <br>
 Mobile APK Source    : https://inrdc.github.io/app/<br>
