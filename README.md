@@ -46,7 +46,8 @@ Mobile APK Source    : https://inrdc.github.io/app/<br>
 Waves Official      : https://www.wavesplatform.com<br>
 Asset Confirmation  : http://dev.pywaves.org/assets/9L3E6fELS4ZYih5St4hwmyvJYTLRzXGK5ei8eFJCcnFg<br>
 Waves Explorer      : http://wavesexplorer.com/address/3PAZTLWW9nTxKwSGLF5KajnL8PSxeiNpW4C<br>
-Official Announcemnet<br>       
+
+<b>Official Announcemnet</b><br>       
                     : https://bitcointalk.org/index.php?topic=4776525 <br>
                     : https://bitcointalk.org/index.php?topic=4776525 <br>
 
