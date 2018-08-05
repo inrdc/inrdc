@@ -41,15 +41,16 @@ Premine         : 100%<br>
 
 Asset ID            : <b>9L3E6fELS4ZYih5St4hwmyvJYTLRzXGK5ei8eFJCcnFg</b><br>
 Contract ID         : 3PAZTLWW9nTxKwSGLF5KajnL8PSxeiNpW4C<br>
-Web Wallet Source    : https://github.com/inrdc/inrdc <br>
-Mobile APK Source    : https://inrdc.github.io/app/<br>
+Web Wallet Source   : https://github.com/inrdc/inrdc <br>
+Mobile APK Source   : https://inrdc.github.io/app/<br>
+Official Website    : https://inrdc.wordpress.com
 Waves Official      : https://www.wavesplatform.com<br>
 Asset Confirmation  : http://dev.pywaves.org/assets/9L3E6fELS4ZYih5St4hwmyvJYTLRzXGK5ei8eFJCcnFg<br>
 Waves Explorer      : http://wavesexplorer.com/address/3PAZTLWW9nTxKwSGLF5KajnL8PSxeiNpW4C<br>
 
 <b>Official Announcemnet</b><br>       
                     : https://bitcointalk.org/index.php?topic=4776525 <br>
-                    : https://bitcointalk.org/index.php?topic=4776525 <br>
+                    : https://bitcoingarden.org/forum/index.php?topic=42846 <br>
 
 
 # Wallets
@@ -74,6 +75,8 @@ INRDC/WAVES<br>
 
 1.   Waves Dex   : https://beta.wavesplatform.com<br>
 2.   Crypto Exchange : https://www.cryptohub.online ( coming soon )<br>
+
+<b>Claim AirDrop 100 INRDC from 7th August 2018 on https://www.cryptohub.online</b><br>
 
 <br>
 <img src="https://2.bp.blogspot.com/-8HZLOrbAsrw/W2COQozNQcI/AAAAAAAAABs/lZRvQuVXBv8sMDlR32M-bJJr4J_4s-nyQCEwYBhgL/s1600/INRDC-WAVES-TRADE.jpg" alt="" class="bbc_img">
