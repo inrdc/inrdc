@@ -43,7 +43,7 @@ Asset ID            : <b>9L3E6fELS4ZYih5St4hwmyvJYTLRzXGK5ei8eFJCcnFg</b><br>
 Contract ID         : 3PAZTLWW9nTxKwSGLF5KajnL8PSxeiNpW4C<br>
 Web Wallet Source   : https://github.com/inrdc/inrdc <br>
 Mobile APK Source   : https://inrdc.github.io/app/<br>
-Official Website    : https://inrdc.wordpress.com
+Official Website    : https://inrdc.wordpress.com<br>
 Waves Official      : https://www.wavesplatform.com<br>
 Asset Confirmation  : http://dev.pywaves.org/assets/9L3E6fELS4ZYih5St4hwmyvJYTLRzXGK5ei8eFJCcnFg<br>
 Waves Explorer      : http://wavesexplorer.com/address/3PAZTLWW9nTxKwSGLF5KajnL8PSxeiNpW4C<br>
