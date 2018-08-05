@@ -52,14 +52,13 @@ Waves Explorer      : http://wavesexplorer.com/address/3PAZTLWW9nTxKwSGLF5KajnL8
                     : https://bitcointalk.org/index.php?topic=4776525 <br>
                     : https://bitcoingarden.org/forum/index.php?topic=42846 <br>
                     
-<b>Twitter</b>      : <b>https://twitter.com/INRDC2</b><br>
 
 
 
 # Wallets
 
 Web Wallet           : https://inrdc.github.io/inrdc/<br>
-MobileApp ( Anroid ) : https://github.com/inrdc/app/raw/master/inrdc.apk<br>
+MobileApp ( Anroid ) : https://github.com/inrdc/app<br>
 
 <br>
 <img src="https://1.bp.blogspot.com/-7vj4Oxwi-RQ/W2SVcYkuLNI/AAAAAAAAACI/edJKYSl08qYnY7PNSkg8HYGVZmIWF9P2QCLcBGAs/s1600/inrdc%2Bmobile.png" alt="INRDC">
