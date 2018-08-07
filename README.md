@@ -76,7 +76,7 @@ INRDC/BTC<br>
 INRDC/WAVES<br>
 
 1.   Waves Dex   : https://beta.wavesplatform.com<br>
-2.   Crypto Exchange : https://www.cryptohub.online ( coming soon )<br>
+2.   Crypto Exchange : https://cryptohub.online/market/INRDC/<br>
 
 <b>Claim AirDrop 100 INRDC from 7th August 2018 on https://www.cryptohub.online</b><br>
 
